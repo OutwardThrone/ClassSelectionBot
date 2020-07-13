@@ -1,0 +1,14 @@
+{ 
+    "EXAMPLE_SECTION": {
+        "EXAMPLE_CLASS_NAME": "ROLE_ID"
+    },
+
+    "EXAMPLE_BLANK_SECTION": {},
+
+    "Math": {
+        "Algebra 1": "999999999999999999",
+        "Algebra 2": "999999999999999999",
+        "Geometry": "999999999999999999",
+        "Pre-Calc": "999999999999999999"
+    }
+}
